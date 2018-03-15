@@ -1,0 +1,7 @@
+name: VirtualChests
+author: AdamGaltrey
+version: 1.0
+main: VirtualChests
+commands:
+  virtualchests:
+    aliases: [vc]
